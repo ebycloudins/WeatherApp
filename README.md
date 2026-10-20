@@ -84,5 +84,5 @@ Screen recording of the app:
 
 [Watch Demo](assets/demo/screen_record.mp4)
 
-Screenshots : (assets/demo/screenshots)
+[Screenshots](assets/demo/screenshots)
 
