@@ -84,5 +84,14 @@ Screen recording of the app:
 
 [Watch Demo](assets/demo/screen_record.mp4)
 
-[Screenshots](assets/demo/screenshots)
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/screen_1.jpg" width="200" alt="Home Screen" />
+    <img src="screenshots/screen_2.jpg" width="200" alt="Home Screen" />
+      <img src="screenshots/screen_3.jpg" width="200" alt="Home Screen" />
+        <img src="screenshots/screen_6.jpg" width="200" alt="Home Screen" />
+          <img src="screenshots/screen_7.jpg" width="200" alt="Home Screen" />
+</p>
+
 
